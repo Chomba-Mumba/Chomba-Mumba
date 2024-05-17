@@ -2,11 +2,11 @@
 👋 Hi, I am #Chomba R. Mumba
 <hr>
 
-- 🔭 I’m currently working on Web Development as a freelancer 
-- 🌱 I’m currently learning Node.js
-- 👯 I’m looking forward to collaborate on big projects
-- 🤔 I can help with UX/UI design
-- 📫 To reach me on: ayman4swd@gmail.com || +967738718923
+- 🔭 I’m currently working on side projects to develop my skillset.
+- 🌱 I’m currently learning React.
+- 👯 I’m enjoy learning about Machine Learning.
+- 🤔 I can help with Full-stack Development.
+- 📫 To reach me on: chombaibex@gmail.com
 
 <hr>
 
