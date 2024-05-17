@@ -2,7 +2,7 @@
 👋 Hi, I am #Chomba R. Mumba
 <hr>
 
-- 🔭 I’m currently working on side projects to develop my skillset.
+- 🔭 I’m currently working on side projects.
 - 🌱 I’m currently learning React.
 - 👯 I’m enjoy learning about Machine Learning.
 - 🤔 I can help with Full-stack Development.
