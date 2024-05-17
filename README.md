@@ -1,16 +1,15 @@
-### Hi there 👋
 
-<!--
-**Chomba-Mumba/Chomba-Mumba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👋 Hi, I am #Chomba R. Mumba
+<hr>
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on Web Development as a freelancer 
+- 🌱 I’m currently learning Node.js
+- 👯 I’m looking forward to collaborate on big projects
+- 🤔 I can help with UX/UI design
+- 📫 To reach me on: ayman4swd@gmail.com || +967738718923
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<hr>
+
+![Ayman's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chomba-Mumba&theme=github_dark&show_icons=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chomba-Mumba&layout=compact&theme=github_dark)
