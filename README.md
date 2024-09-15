@@ -3,9 +3,8 @@
 <hr>
 
 - 🔭 I’m currently working on side projects.
-- 🌱 I’m currently learning React.
-- 👯 I’m enjoy learning about Machine Learning.
-- 🤔 I can help with Full-stack Development.
+- 🌱 I’m currently learning React and Terraform.
+- 👯 I’m enjoying learning about Machine Learning.
 - 📫 To reach me on: chombaibex@gmail.com
 
 <hr>
