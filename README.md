@@ -17,6 +17,7 @@
 <br>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=aws,terraform,go,docker,kubernetes,githubactions,git" />
+    <br>
   <img src="https://skillicons.dev/icons?i=python,html,css,,tailwind,js,vue,react,postman,figma" />
 </p>
 
