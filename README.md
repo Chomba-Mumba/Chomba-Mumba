@@ -23,7 +23,9 @@
 </div>
 
 <hr>
+### 🧠 Currently Learning
 
+![Go](https://img.shields.io/badge/GoLang-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 <p align="center">
   <img src="https://skillicons.dev/icons?i=aws,terraform,go,docker,kubernetes,githubactions,git" />
   <br>
@@ -38,7 +40,11 @@
 
 <div align="center">
   <img width="390" src="https://github-readme-stats.vercel.app/api?username=chomba-mumba&theme=transparent&count_private=true&show_icons=true&rank_icon=github&locale=en" alt="Chomba's GitHub Stats" />
-  <img width="390" src="https://github-readme-streak-stats.herokuapp.com/?user=chomba-mumba&theme=transparent&count_private=true&border_radius=10&locale=en" alt="Chomba's GitHub Streak" />
+  <img
+    width="390"
+    src="https://streak-stats.demolab.com?user=chomba-mumba&theme=transparent&count_private=true&border_radius=10&locale=en"
+    alt="Chomba's GitHub Streak"
+  />
   <br><br>
   <img width="325" src="https://github-readme-stats.vercel.app/api/top-langs?username=chomba-mumba&theme=transparent&layout=donut&hide=css&langs_count=8&border_radius=10&show_icons=true&locale=en" alt="Chomba's Most Used Languages" />
 </div>
