@@ -23,11 +23,11 @@
 </div>
 
 <hr>
-<h3>🧠 Currently Learning <img
+<h3>🧠 Currently Learning:  <img
   src="https://img.shields.io/badge/GoLang-00ADD8?style=for-the-badge&logo=go&logoColor=white"
   alt="GoLang badge"
 /></h3>
-
+<br>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=aws,terraform,go,docker,kubernetes,githubactions,git" />
