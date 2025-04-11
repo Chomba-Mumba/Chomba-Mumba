@@ -23,10 +23,11 @@
 </div>
 
 <hr>
-<h3>🧠 Currently Learning:  <img
+<h3>🧠 I'm Currently Learning:  <img
   src="https://img.shields.io/badge/GoLang-00ADD8?style=for-the-badge&logo=go&logoColor=white"
   alt="GoLang badge"
 /></h3>
+<hr>
 <br>
 
 <p align="center">
