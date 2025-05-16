@@ -55,7 +55,7 @@
 
 <hr>
 
-## 🐍 My Contributions
+## 🐍 My Contributions (if interested, my full contribution graph is below)
 
 <div align="center">
   <picture>
