@@ -55,7 +55,7 @@
 
 <hr>
 
-## 🐍 My Contributions (if interested, my full contribution graph is below)
+## 🐍 My Contributions (if interested, my full contribution graph is below the snake animation)
 
 <div align="center">
   <picture>
