@@ -35,24 +35,10 @@
   <br>
   <img src="https://skillicons.dev/icons?i=python,html,css,js,vue,react,postman,figma" />
 </p>
-
-<hr>
-
-## ⚡️ Stats
-
 <br>
-
 <div align="center">
-  <img width="390" src="https://github-readme-stats.vercel.app/api?username=chomba-mumba&theme=transparent&count_private=true&show_icons=true&rank_icon=github&locale=en" alt="Chomba's GitHub Stats" />
-  <img
-    width="390"
-    src="https://streak-stats.demolab.com?user=chomba-mumba&theme=transparent&count_private=true&border_radius=10&locale=en"
-    alt="Chomba's GitHub Streak"
-  />
-  <br><br>
   <img width="325" src="https://github-readme-stats.vercel.app/api/top-langs?username=chomba-mumba&theme=transparent&layout=donut&hide=css&langs_count=8&border_radius=10&show_icons=true&locale=en" alt="Chomba's Most Used Languages" />
 </div>
-
 <hr>
 
 ## 🐍 My Contributions (if interested, my full contribution graph is below the snake animation)
