@@ -41,7 +41,7 @@
 </div>
 <hr>
 
-## 🐍 My Contributions (if interested, my full contribution graph is below the snake animation)
+## 🐍 My Contributions
 
 <div align="center">
   <picture>
