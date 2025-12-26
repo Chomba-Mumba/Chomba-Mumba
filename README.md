@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=48&center=true&vCenter=true&width=500&height=70&color=4493F8&duration=4000&lines=Hi+There!+👋;+I'm+Chomba+Mumba!;" />
 </h1>
 
-### A Cloud Engineering Enthusiast passionate about building functional, and scalable cloud-based applications and services.
+### A Cloud Enthusiast passionate about building functional, and scalable cloud-based applications and services.
 
 <p align="center">
   <img src="https://github.com/chomba-mumba/chomba-mumba/blob/main/software-developer.png" alt="Banner of a developer sitting in front of a desk" />
