@@ -3,42 +3,6 @@
 </h1>
 
 ### A Cloud Enthusiast passionate about building functional, and scalable cloud-based applications and services.
-
-<p align="center">
-  <img src="https://github.com/chomba-mumba/chomba-mumba/blob/main/software-developer.png" alt="Banner of a developer sitting in front of a desk" />
-</p>
-
-<br>
-
-<div align="center">
-  <a href="mailto:chombaibex@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
-  <a href="https://www.linkedin.com/in/chomba-mumba-395a99172/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://chomba-mumba.co.uk" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-8A2BE2?style=for-the-badge" />
-  </a>
-</div>
-
-<hr>
-<h3>🧠 I'm Currently Learning:  <img
-  src="https://img.shields.io/badge/GoLang-00ADD8?style=for-the-badge&logo=go&logoColor=white"
-  alt="GoLang badge"
-/></h3>
-<hr>
-<br>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,terraform,go,docker,kubernetes,githubactions,git" />
-  <br>
-  <img src="https://skillicons.dev/icons?i=python,html,css,js,vue,react,postman,figma" />
-</p>
-<br>
-<div align="center">
-  <img width="325" src="https://github-readme-stats.vercel.app/api/top-langs?username=chomba-mumba&theme=transparent&layout=donut&hide=css&langs_count=8&border_radius=10&show_icons=true&locale=en" alt="Chomba's Most Used Languages" />
-</div>
 <hr>
 
 ## 🐍 My Contributions
